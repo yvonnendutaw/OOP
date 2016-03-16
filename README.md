@@ -1,7 +1,7 @@
 # OOP
-Principles of OOP
 
-# Four major principles of Object-Oriented Programming (OOP) 
+
+## The Four major Principles of OOP
 
 
 The Objects Oriented Programming (OOP) is constructed over four major principles:
