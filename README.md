@@ -5,7 +5,10 @@
 
 
 The Objects Oriented Programming (OOP) is constructed over four major principles:
-EncapsulationData Abstraction, Polymorphism and Inheritance.
+-Encapsulation
+-Data Abstraction
+-Polymorphism
+-Inheritance.
 
 ## 1. Encapsulation:
 
@@ -16,7 +19,7 @@ Encapsulation is the hiding of data implementation by restricting access to acce
 
 An accessor is a method that is used to ask an object about itself. In OOP, these are usually in the form of properties, which have a get method, which is an accessor method. However, accessor methods are not restricted to properties and can be any public method that gives information about the state of the object.
 
-A **_Mutator_** is public method that is used to modify the state of an object, while hiding the implementation of exactly how the data gets modified. It’s the set method that lets the caller modify the member data behind the scenes.
+A **Mutator** is public method that is used to modify the state of an object, while hiding the implementation of exactly how the data gets modified. It’s the set method that lets the caller modify the member data behind the scenes.
 
 Hiding the internals of the object protects its integrity by preventing users from setting the internal data of the component into an invalid or inconsistent state. This type of data protection and implementation protection is called Encapsulation.
 
@@ -25,7 +28,10 @@ A benefit of encapsulation is that it can reduce system complexity.
 ## 2. Abstraction
 
 
-Data abstraction and encapuslation are closely tied together, because a simple definition of data abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. Abstraction denotes a model, a view, or some other focused representation for an actual item.
+Data abstraction and encapuslation are closely tied together, because a simple definition of data abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. 
+
+
+Abstraction denotes a model, a view, or some other focused representation for an actual item.
 
 “An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of object and thus provide crisply defined conceptual boundaries, relative to the perspective of the viewer.” — G. Booch
 
